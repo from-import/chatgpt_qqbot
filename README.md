@@ -1,0 +1,2 @@
+# chatgpt_qqbot
+从安装Python开始，逐步教学如何在自己的电脑上部署属于自己的ChatGPT机器人
