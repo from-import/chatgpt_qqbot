@@ -18,3 +18,5 @@ step2:打开moduel文件夹的ero.py
 
 之后直接运行chatgpt_qqbot.py即可
 
+已经录制完整视频教程，发布于B站:
+
