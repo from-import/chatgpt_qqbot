@@ -18,3 +18,4 @@ step2:打开moduel文件夹的ero.py
 
 之后直接运行chatgpt_qqbot.py即可
 
+注:本项目部署依赖于120$的API,如果API的每分钟可调用次数过低，会导致内容无法完全生成
