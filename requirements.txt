@@ -1,5 +1,5 @@
-graia-ariadne==0.0.1
-Pillow==8.3.2
+graia-ariadne
+Pillow==9.4.0
 graia-saya==0.0.7
 json5==0.9.6
 openai==0.27.0
@@ -17,5 +17,4 @@ openai==0.27.0
 requests==2.26.0
 pkgutil3==1.0.0
 creart==0.1.2
-graia-ariadne==0.0.1
-graia-saya==0.0.7
+graia-saya
